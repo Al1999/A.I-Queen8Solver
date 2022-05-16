@@ -1,0 +1,7 @@
+> Al Khatab Al Rashdi
+> CS441 - 001 
+> Queen-8 Solver using genetic algrothim 
+
+To run the program:
+-   run python3 main.py
+-   choose the size of the population from the manu provided by typing the size number
