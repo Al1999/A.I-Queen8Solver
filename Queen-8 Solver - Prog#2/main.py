@@ -1,5 +1,5 @@
 from statistics import mean
-from queen_gen import rand_i, fitness, generate_population, print_8Q  
+from queen8 import rand_i, fitness, generate_population, print_8Q  
 import pandas as pd
 
 import openpyxl 
